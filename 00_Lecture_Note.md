@@ -73,6 +73,7 @@
 
 > **「現在，你的限制不再是你的代碼能力，而是你的想像力。」**
 
+- [2025 五大主流大型語言模型 LLM 趨勢總覽：性能、價格、安全與應用一次搞懂！](https://aitw.biz/zh/blog/llm-2025-ai-models)
 
 - [Vibe Coding首選AI模型是它！](https://www.bnext.com.tw/article/83984/anthropic-claude-good-at-code#google_vignette)
 
