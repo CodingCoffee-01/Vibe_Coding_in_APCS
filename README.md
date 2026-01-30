@@ -1,5 +1,21 @@
 ## 這是酷課雲 寒假講座 -- 是"Vibe APCS “,是好事嗎？
 
+9:00 ~ 9:30 什麼是LLM 
+9:30 ~ 9:50 簡介Vibe Coding
+10:00 ~ 10:30 Github , VScode , Copilot
+10:30 ~ 11:50 Vibe APCS Coding I (include Markdown)
+
+
+
+
+[Github 使用介紹]()
+
+[如何整理儲存chatgpt 產出的資料 講座介紹 -- Markdown 介紹](https://www.codingcoffee.org/courses/juniorcodingcoffee)
+
+[Markdown 常見使用](https://github.com/CodingCoffee-01/GenAI_answer/blob/main/Markdown_Latex.md)
+
+
+
 [Github 使用介紹]()
 
 [如何整理儲存chatgpt 產出的資料 講座介紹 -- Markdown 介紹](https://www.codingcoffee.org/courses/juniorcodingcoffee)
